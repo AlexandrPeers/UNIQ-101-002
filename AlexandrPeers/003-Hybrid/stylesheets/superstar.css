@@ -1,0 +1,13 @@
+#superstar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 680px;
+  background-color: pink;
+}
+
+#superstar .profitCard {
+  width: 100px;
+  height: 300px;
+  background-color: blue;
+}
